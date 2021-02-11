@@ -19,7 +19,7 @@ individual setup.
 
 Run BLOSSOM from the command line with 'python3 blossom.py' plus optional
 arguments in the following order:
-\- the function to execute: 'r' to read from the log (default), 'w' to
+\n\- the function to execute: 'r' to read from the log (default), 'w' to
   write new game data to the log (see info on game-specific arguments
   below), or 'wr' to write new data and read the updated log
 \- the log file to use: this defaults to 'log.csv', but you can specify
