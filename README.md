@@ -26,3 +26,6 @@ arguments in the following order:
   other filenames to keep multiple logs (for example if you wanted to keep
   logs for multiple matchups with different teams/players
 - game-specific arguments: see info in the 'aliss' repo for details
+
+Note: The 'input' folder included here contains example images, but you should
+replace these with your own images to track your play.
