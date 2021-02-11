@@ -27,5 +27,5 @@ arguments in the following order:
   logs for multiple matchups with different teams/players
 - game-specific arguments: see info in the 'aliss' repo for details
 
-Note: The 'input' folder included here contains example images, but you should
+NOTE: The 'input' folder included here contains example images, but you should
 replace these with your own images to track your play.
