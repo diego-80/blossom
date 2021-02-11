@@ -19,10 +19,10 @@ individual setup.
 
 Run BLOSSOM from the command line with 'python3 blossom.py' plus optional
 arguments in the following order:
-\n\- the function to execute: 'r' to read from the log (default), 'w' to
+- the function to execute: 'r' to read from the log (default), 'w' to
   write new game data to the log (see info on game-specific arguments
   below), or 'wr' to write new data and read the updated log
-\- the log file to use: this defaults to 'log.csv', but you can specify
+- the log file to use: this defaults to 'log.csv', but you can specify
   other filenames to keep multiple logs (for example if you wanted to keep
   logs for multiple matchups with different teams/players
-\- game-specific arguments: see info in the 'aliss' repo for details
+- game-specific arguments: see info in the 'aliss' repo for details
